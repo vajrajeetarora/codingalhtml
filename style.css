@@ -16,6 +16,19 @@ img{
     font-weight: bolder;
 
 }
+#title{
 
+    text-decoration: underline;
+}
+#mysecondheader{
 
+   padding: 20px;
+    text-align: center;
+}
 
+#contentdiv{
+
+    background-color: lightseagreen;
+    padding:10px;
+    margin-top: 40px;
+}
